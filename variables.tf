@@ -48,3 +48,10 @@ variable "ingress_ports_list" {
     description = "List for port ingress"
     type = list(number)
 }
+
+variable "access_key" {
+
+}
+variable "secret_key" {
+    
+}
