@@ -56,6 +56,6 @@ variable "secret_key" {
 
 }
 
-variable "sesion_token" {
+variable "session_token" {
 
 }
